@@ -1,0 +1,14 @@
+{
+    "name": "mediablox/skeleton",
+    "description": "A bare bones Magento 2 theme",
+    "license": "MIT",
+    "type": "magento2-theme",
+    "require": {
+        "magento/framework": "^101.0.0|^102.0.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
